@@ -64,7 +64,6 @@ We welcome contributions! To contribute:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request.
 
-For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Issues
 
