@@ -50,11 +50,10 @@ void main() {
 }
 ```
 
-[Provide a more detailed example or a step-by-step guide if applicable.]
 
 ## Documentation
 
-Find the full documentation on [Pub.dev](https://pub.dev/packages/your_package_name) or in the `docs` folder.
+Find the full documentation on [Pub.dev](https://pub.dev/packages/utils_custom1) or in the `docs` folder.
 
 ## Contributing
 
@@ -67,7 +66,7 @@ We welcome contributions! To contribute:
 
 ## Issues
 
-If you encounter any problems, please open an issue on [GitHub](https://github.com/your_username/your_package_name/issues).
+If you encounter any problems, please open an issue on [GitHub](https://github.com/sserkanml/utils/issues).
 
 ## License
 
